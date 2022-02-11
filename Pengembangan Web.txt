@@ -1,22 +1,30 @@
-Pengembang web 
-adalah seorang programmer yang mengkhususkan diri dalam, atau secara khusus terlibat dalam, pengembangan aplikasi World Wide Web menggunakan client–server model. 
-Aplikasi biasanya menggunakan HTML, CSS dan JavaScript di klien, PHP, ASP.NET (C #), Python, Go atau Java di server, dan http untuk komunikasi antara klien dan server. 
-Sistem manajemen konten web sering digunakan untuk mengembangkan dan memelihara aplikasi web.
+Learn web development
+Welcome to the MDN learning area. This set of articles aims to guide complete beginners to web development with all that they need to start coding websites.
 
-Sifat pekerjaan
-Pengembang web ditemukan bekerja di berbagai jenis organisasi, termasuk perusahaan besar dan pemerintah, perusahaan kecil dan menengah, atau sendirian sebagai pekerja lepas. Beberapa pengembang web bekerja untuk satu organisasi sebagai karyawan tetap, sementara yang lain mungkin bekerja sebagai konsultan independen, atau sebagai kontraktor untuk agen atau penggunaan pribadi di rumah. Pengembang web biasanya menangani logika server-side dan front-end. Ini biasanya melibatkan penerapan semua elemen visual yang dilihat dan digunakan pengguna dalam aplikasi atau penggunaan web, serta semua layanan web yang diperlukan untuk mendukung penggunaan pekerjaan pengembangan mereka. Gaji bervariasi tergantung pada jenis pekerjaan pengembangan, lokasi, dan tingkat senioritas.
+The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable." 
+From there, you should be able to start making your way, learning from the rest of MDN, and other intermediate to advanced resources that assume a lot of previous knowledge.
 
-Jenis pekerjaan yang dilakukan
-Aplikasi web modern sering kali berisi tiga tingkatan atau lebih, dan bergantung pada ukuran tim tempat pengembang bekerja, dia mungkin mengkhususkan diri pada satu atau lebih tingkatan ini - atau mungkin mengambil peran yang lebih interdisipliner. Pengembang web biasanya diklasifikasikan sebagai front-end web development atau backend web development. Misalnya, dalam tim dua orang, satu pengembang dapat fokus pada teknologi yang dikirim ke klien seperti HTML, JavaScript, CSS, ReactJs atau AngularJS dan pada kerangka kerja server-side (seperti Perl, Python, Ruby, PHP, Java, ASP, ASP.NET, Node.js) digunakan untuk mengirimkan konten dan skrip ke klien. Sementara itu, pengembang lain mungkin fokus pada interaksi antara kerangka kerja serverside, webserver, dan sistem database. Lebih lanjut, tergantung pada ukuran organisasinya, pengembang yang disebutkan di atas mungkin bekerja sama dengan pembuat konten / copywriter, penasihat pemasaran, desainer pengalaman pengguna, desainer web, produser web, manajer proyek, arsitek perangkat lunak, atau administrator database - atau mereka mungkin saja bertanggung jawab atas tugas-tugas seperti desain web dan manajemen proyek itu sendiri.
+If you are a complete beginner, web development can be challenging — we will hold your hand and provide enough detail for you to feel comfortable and learn the topics properly. You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class materials, a hobbyist, or someone who just wants to understand more about how web technologies work.
 
+What's new?
+The content in the learning area is being added to regularly. 
+We have started keeping Learning area release notes to show what has changed — keep checking back frequently!
 
-Persyaratan pendidikan dan lisensi
-Tidak ada pendidikan formal atau persyaratan lisensi untuk menjadi pengembang web. Namun, banyak perguruan tinggi dan sekolah perdagangan menawarkan kursus dalam pengembangan web. Ada juga banyak tutorial dan artikel, yang mengajarkan pengembangan web, tersedia secara gratis di web - misalnya JavaScript Dasar.
+If you have questions regarding topics you'd like to see covered or feel are missing, drop us a message on our Discourse forum.
 
-Meskipun tidak ada persyaratan pendidikan formal, menangani proyek pengembangan web mengharuskan mereka yang ingin disebut sebagai pengembang web memiliki pengetahuan / keterampilan tingkat lanjut dalam:
+Looking to become a front-end web developer?
+We have put together a course that includes all the essential information you need to work towards your goal.
+Get started
 
-HTML / XHTML, CSS, JavaScript dan jQuery.
-Arsitektur server side / client side seperti semua atau beberapa yang disebutkan di atas.
-Pemrograman / Coding / Scripting dalam salah satu dari banyak bahasa atau kerangka kerja sisi server (mis.,Perl, Python, Ruby, PHP, Go, CFML - ColdFusion, Java, ASP, ASP.NET, Node.js)
-Kemampuan untuk memanfaatkan database
-Membuat single page application dengan menggunakan alat front-end seperti EmberJS, [1] ReactJS [2] atau AngularJS [3]
+Where to start
+Complete beginner
+If you are a complete beginner to web development, we'd recommend that you start by working through our Getting started with the web module, which provides a practical introduction to web development.
+
+Beyond the basics
+If you have a bit of knowledge already, the next step is to learn HTML and CSS in detail: start with our Introduction to HTML module and move on to our CSS first steps module.
+
+Moving onto scripting
+If you are comfortable with HTML and CSS already, or you are mainly interested in coding, you'll want to move on to JavaScript or server-side development. Begin with our JavaScript first steps and Server-side first steps modules.
+
+Frameworks and tooling
+After mastering the essentials of vanilla HTML, CSS, and JavaScript, you should learn about client-side web development tools, and then consider digging into client-side JavaScript frameworks, and server-side website programming.
