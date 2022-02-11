@@ -1,3 +1,7 @@
-Pengembang web adalah seorang programmer yang mengkhususkan diri dalam, atau secara khusus terlibat dalam, pengembangan aplikasi World Wide Web menggunakan client–server model. 
+Pengembang web 
+adalah seorang programmer yang mengkhususkan diri dalam, atau secara khusus terlibat dalam, pengembangan aplikasi World Wide Web menggunakan client–server model. 
 Aplikasi biasanya menggunakan HTML, CSS dan JavaScript di klien, PHP, ASP.NET (C #), Python, Go atau Java di server, dan http untuk komunikasi antara klien dan server. 
 Sistem manajemen konten web sering digunakan untuk mengembangkan dan memelihara aplikasi web.
+
+Sifat pekerjaan
+Pengembang web ditemukan bekerja di berbagai jenis organisasi, termasuk perusahaan besar dan pemerintah, perusahaan kecil dan menengah, atau sendirian sebagai pekerja lepas. Beberapa pengembang web bekerja untuk satu organisasi sebagai karyawan tetap, sementara yang lain mungkin bekerja sebagai konsultan independen, atau sebagai kontraktor untuk agen atau penggunaan pribadi di rumah. Pengembang web biasanya menangani logika server-side dan front-end. Ini biasanya melibatkan penerapan semua elemen visual yang dilihat dan digunakan pengguna dalam aplikasi atau penggunaan web, serta semua layanan web yang diperlukan untuk mendukung penggunaan pekerjaan pengembangan mereka. Gaji bervariasi tergantung pada jenis pekerjaan pengembangan, lokasi, dan tingkat senioritas.
