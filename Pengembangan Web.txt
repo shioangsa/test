@@ -11,3 +11,7 @@ The content in the learning area is being added to regularly.
 We have started keeping Learning area release notes to show what has changed — keep checking back frequently!
 
 If you have questions regarding topics you'd like to see covered or feel are missing, drop us a message on our Discourse forum.
+
+Looking to become a front-end web developer?
+We have put together a course that includes all the essential information you need to work towards your goal.
+Get started
